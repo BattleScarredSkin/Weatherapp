@@ -1,11 +1,10 @@
 # Weatherapp
 Una fallida aplicación del clima con openweather API
 
-Features o Características
-
+Features(Características)
 -La aplicación en sí es sencilla, basta con escoger una ciudad en concreto y luego apretar el botón de buscar. Los códigos por estados sólo son válidos para ciudades de Estados Unidos.
 -Interfaz simple y fácil acceso
--Mínimo consumo de memoria y espacio de almacenamiento
+-Mínimo consumo de memoria y espacio de almacenamiento.
 
 
 Problemas conocidos(Fallos,Bugs o Glitches)
